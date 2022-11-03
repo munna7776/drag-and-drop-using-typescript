@@ -89,6 +89,7 @@ button:hover, button:active {
     box-shadow: 1px 1px 8px rgba(0,0,0,0.26);
     padding: 1rem;
     margin: 1rem;
+    background: white;
 }
 
 .projects li h2 {
@@ -110,7 +111,7 @@ button:hover, button:active {
 }
 
 .droppable {
-    background: #d6e1ff;
+    background: #ffe3ee;
 }
 
 #finished-projects .droppable {
